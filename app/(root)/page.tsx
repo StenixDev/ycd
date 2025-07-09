@@ -12,7 +12,7 @@ export default async function Home({ searchParams }) {
 
         <p className='sub-heading !max=w=3xl'>
           {' '}
-          Submit Ideas, vote on Pitches, and get Noticed in Virtual Competition
+          Submit Ideas, vote on Pitches, and get Noticed in Virtual Competitionx
         </p>
 
         <SearchForm query={query} />
